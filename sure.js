@@ -25,7 +25,7 @@ function iti(text = honbun.value || soshin.disabled, name = username.value || "�
         location.reload();
     soshin.disabled = true; // 空なら無効
   } else {
-    location.href = 'kei.html';
+    location.href = 'https://kairu7019-creator.github.io/keijiban/';
   }
 
 }
